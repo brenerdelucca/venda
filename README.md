@@ -23,3 +23,10 @@ Exemplo de POST no formato JSON:<br>
     "vendedorNome": "Pedro Souza"
 }
 </pre>
+
+Rota: /h2-console
+Rota para acessar o banco de dados H2
+Driver Class: org.h2.Driver
+JDBC URL: jdbc:h2:mem:venda
+User name: sa
+Não é necessário senha
